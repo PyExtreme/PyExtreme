@@ -28,7 +28,7 @@ I work on the serving stack: routers, schedulers, KV cache, transfer layers and 
 #### 🧪 Projects
 
 - **[AI Incident Commander](https://github.com/PyExtreme/agentic-incident-response)** ([write-up](https://pyextreme.github.io/projects/ai-incident-commander/)): a pre-registered, equal-budget comparison of multi-agent vs single-agent LLMs for diagnosing microservice incidents, on two models. The single agent matched multi-agent accuracy at 1/3.4 of the cost; about 600 held-out runs for $33.
-- **[MarketLane AI](https://pyextreme.github.io/projects/marketlane-ai/)** (my startup, code is private): AI stock selection, rebuilt three times from one cached LLM call to a verified multi-stage pipeline. 90% on top setups for about $4.5 per 100-symbol scan.
+- **[MarketLane AI](https://pyextreme.github.io/projects/marketlane-ai/)** (my startup, code is private): AI stock selection, rebuilt three times from one cached LLM call to a verified multi-stage pipeline. 90% on top setups for about $1.5 per 100-symbol scan.
 - **[MarketLane Research](https://pyextreme.github.io/projects/marketlane-research-rag/)** (my startup, code is private): answers market questions with cited evidence from SEC filings, XBRL facts and market data.
 
 #### 🧰 Toolkit
